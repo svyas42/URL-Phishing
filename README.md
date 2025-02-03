@@ -2,7 +2,7 @@
 
 My group project is centered around determining the characteristics of invalid and valid URLS by identifying patterns in phishing URLs. These patterns might include validity based on URL length, number dashes, number of dots, and HTTP + SSL. The initial prediction is that invalid URLs (phishing URLs) will be longer, not secure (HTTP instead of HTTPS), and contain significantly more unused special characters such as dots, dashes, and ampersands. One of our team members works at Microsoft as a Software Engineer Intern and a few weeks ago there was a huge Microsoft data breach that stemmed from URL phishing. It compromised hundreds of senior executives' accounts and caused user impersonation, unauthorized data extraction, financial fraud, and much more. I wanted to research this topic since it has a current real world impact on my company and my job. URL Phishing is a major security threat in todays technological world.
 
-Data Set used and variables:
+Data Set used:
 
 https://www.kaggle.com/datasets/sunnykusawa/phishing-urls
 
